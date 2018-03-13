@@ -1,5 +1,4 @@
 #!/bin/bash
-# 说明：该脚本用于启动staticnginx服务器，模拟线上static.machtalk.net
 
 docker run --detach \
     --name myNginx \
